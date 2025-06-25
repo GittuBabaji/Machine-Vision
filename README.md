@@ -1,8 +1,4 @@
-Here’s a **shorter**, cleaner `README.md` with **more advanced computer vision projects** included:
 
----
-
-````markdown
 # 🧠 Computer Vision Projects
 
 A curated collection of beginner to advanced computer vision projects using Python, OpenCV, and MediaPipe.
@@ -55,9 +51,6 @@ Make sure your webcam is connected.
 
 MIT License • Feel free to use, modify, and contribute.
 
-```
 
----
 
-Let me know if you want to **auto-generate folders + sample main.py** for each project too.
-```
+
